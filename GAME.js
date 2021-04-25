@@ -67,9 +67,10 @@ var GAME_LEVELS = [
  "                                                                                                     x!!!x                               ",
  "                                                                                                     xvvvx                               ",
  "                                                                                                                                         ",
+ "                                                                                                                                         ",
  "                                                                                                                              oooo       ",
  "                                                                                                     xxxxx                    oooo       ",
- "                                                                 xxx                                                                          ",
+ "                                                                 xxx                                                                     ",
  "         xxx                                                xxx                   xxxxxxxxxxxxxxxxxx!!!!!!!!!!!!xxxxxxxxxxxxxxxxxxxxxxxxx",
  "        xx!xx                                            xxx                     xxxxxxxxxxxxxxxxxxx!!!!!!!!!!!!xxxxxxxxxxxxxxxxxxxxxxxxx",
  "        xx!xx                                         xxxxx                     xxxxxxxxxxxxxxxxxxxx!!!!!!!!!!!!xxxxxxxxxxxxxxxxxxxxxxxxx",                                                              
@@ -80,8 +81,6 @@ var GAME_LEVELS = [
  " xxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx!!!!!!!!!!!!!!!!!!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",                                                               
  "                 x!!!!x                              x!!!!!!!!!!!!!!!!!!x                                                                ",                                                           
  "                 x!!!!x                              x!!!!!!!!!!!!!!!!!!x                                                                ", 
- "                 xxxxxx                              x!!!!!!!!!!!!!!!!!!x                                                                ", 
- "                                                     xxxxxxxxxxxxxxxxxxxx                                                                ", 
- "                                                                                                                                         ", 
+ "                 xxxxxx                              xxxxxxxxxxxxxxxxxxxx                                                                ", 
 ]
 ];                                                                                                          
