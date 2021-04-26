@@ -64,6 +64,10 @@ var GAME_LEVELS = [
    "                                                                                "
 ],
 [
+ "                                                                                                                                         ",
+ "                                                                                                                                         ",        
+ "                                                                                                                                         ",      
+ "                                                                                                                                         ",
  "                                                                                                     x!!!x                               ",
  "                                                                                                     xvvvx                               ",
  "                                                                                                                                         ",
@@ -81,6 +85,9 @@ var GAME_LEVELS = [
  " xxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx!!!!!!!!!!!!!!!!!!xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",                                                               
  "                 x!!!!x                              x!!!!!!!!!!!!!!!!!!x                                                                ",                                                           
  "                 x!!!!x                              x!!!!!!!!!!!!!!!!!!x                                                                ", 
- "                 xxxxxx                              xxxxxxxxxxxxxxxxxxxx                                                                ", 
+ "                 xxxxxx                              xxxxxxxxxxxxxxxxxxxx                                                                ",
+ "                                                                                                                                         ",
+ "                                                                                                                                         ",
+ "                                                                                                                                         ",
 ]
 ];                                                                                                          
